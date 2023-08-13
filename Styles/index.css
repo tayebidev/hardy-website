@@ -18,12 +18,25 @@ header {
     color: #FD6E0A;
 }
 
+.cv-content {
+    width: 200px;
+    height: 64px;
+    border-radius: 10px;
+    background: #FD6E0A;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    margin: 20px 17px 50px;
+}
+
 /* header style */
 nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
+
     /* justify-content: space-between; */
 }
 
@@ -56,4 +69,44 @@ nav a {
     font-weight: 700;
     margin: 18px 35px;
 }
+
 /* mary hardy section */
+.content-title {
+    color: #474747;
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.mary-hardy {
+    color: #181818;
+    font-size: 85px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.description {
+    width: 585px;
+    color:#757575;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.contact {
+    width: 160px;
+    height: 64px;
+    border-radius: 10px;
+    border: 01px solid #FD6E0A;
+    color: #FD6E0A;
+    font-size: 20px;
+    line-height: normal;
+    text-align: center;
+
+}
